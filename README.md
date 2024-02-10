@@ -6,4 +6,5 @@
 
 
 
-![Consulta DNI ](https://raw.githubusercontent.com/DiegoMelendezH/ConsultaDNI/main/CAPDEWEB.png)
+![Consulta DNI ]
+(https://raw.githubusercontent.com/DiegoMelendezH/ConsultaDNI/main/CAPDEWEB.png)
